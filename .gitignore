@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Keep this file tracked
+!.gitignore
+
+# Public showcase files
+!README.md
+!Logo/
+!Logo/LogoVyron.png
